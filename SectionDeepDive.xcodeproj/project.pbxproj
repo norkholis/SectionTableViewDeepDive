@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5528338E23B59D89008287A2 /* MusicFooterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5528338D23B59D89008287A2 /* MusicFooterCell.swift */; };
+		5528339123B5B366008287A2 /* TaskTwoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5528339023B5B366008287A2 /* TaskTwoController.swift */; };
+		5528339323B5B848008287A2 /* ContentMenuCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5528339223B5B848008287A2 /* ContentMenuCellTableViewCell.swift */; };
 		552A01EE23B45E6600AC2E5B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A01ED23B45E6600AC2E5B /* AppDelegate.swift */; };
 		552A01F023B45E6600AC2E5B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A01EF23B45E6600AC2E5B /* SceneDelegate.swift */; };
 		552A01F223B45E6600AC2E5B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A01F123B45E6600AC2E5B /* ViewController.swift */; };
@@ -15,6 +18,13 @@
 		552A01FA23B45E6A00AC2E5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 552A01F823B45E6A00AC2E5B /* LaunchScreen.storyboard */; };
 		552A020523B45E6B00AC2E5B /* SectionDeepDiveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A020423B45E6B00AC2E5B /* SectionDeepDiveTests.swift */; };
 		552A021023B45E6B00AC2E5B /* SectionDeepDiveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A020F23B45E6B00AC2E5B /* SectionDeepDiveUITests.swift */; };
+		552A021F23B4903F00AC2E5B /* TaskOneController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A021E23B4903F00AC2E5B /* TaskOneController.swift */; };
+		552A022123B496E000AC2E5B /* TaskOneModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A022023B496E000AC2E5B /* TaskOneModel.swift */; };
+		552A022323B4C5B700AC2E5B /* HeaderMusicViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A022223B4C5B700AC2E5B /* HeaderMusicViewCell.swift */; };
+		552A022523B4C5CF00AC2E5B /* ContentMusicViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552A022423B4C5CF00AC2E5B /* ContentMusicViewCell.swift */; };
+		552BC8EA23BEE42400CE805C /* TaskFourViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552BC8E923BEE42400CE805C /* TaskFourViewController.swift */; };
+		5532176F23BAE93E0013279B /* TaskThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5532176E23BAE93E0013279B /* TaskThreeViewController.swift */; };
+		55955A4D23C48FF60008D5AB /* LabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55955A4C23C48FF60008D5AB /* LabViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +45,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5528338D23B59D89008287A2 /* MusicFooterCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicFooterCell.swift; sourceTree = "<group>"; };
+		5528339023B5B366008287A2 /* TaskTwoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTwoController.swift; sourceTree = "<group>"; };
+		5528339223B5B848008287A2 /* ContentMenuCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentMenuCellTableViewCell.swift; sourceTree = "<group>"; };
 		552A01EA23B45E6600AC2E5B /* SectionDeepDive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SectionDeepDive.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		552A01ED23B45E6600AC2E5B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		552A01EF23B45E6600AC2E5B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +62,13 @@
 		552A020B23B45E6B00AC2E5B /* SectionDeepDiveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SectionDeepDiveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		552A020F23B45E6B00AC2E5B /* SectionDeepDiveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionDeepDiveUITests.swift; sourceTree = "<group>"; };
 		552A021123B45E6B00AC2E5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		552A021E23B4903F00AC2E5B /* TaskOneController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskOneController.swift; sourceTree = "<group>"; };
+		552A022023B496E000AC2E5B /* TaskOneModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskOneModel.swift; sourceTree = "<group>"; };
+		552A022223B4C5B700AC2E5B /* HeaderMusicViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderMusicViewCell.swift; sourceTree = "<group>"; };
+		552A022423B4C5CF00AC2E5B /* ContentMusicViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentMusicViewCell.swift; sourceTree = "<group>"; };
+		552BC8E923BEE42400CE805C /* TaskFourViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskFourViewController.swift; sourceTree = "<group>"; };
+		5532176E23BAE93E0013279B /* TaskThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskThreeViewController.swift; sourceTree = "<group>"; };
+		55955A4C23C48FF60008D5AB /* LabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +96,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5528338F23B5B2A0008287A2 /* TaskTwo */ = {
+			isa = PBXGroup;
+			children = (
+				5528339023B5B366008287A2 /* TaskTwoController.swift */,
+				5528339223B5B848008287A2 /* ContentMenuCellTableViewCell.swift */,
+			);
+			path = TaskTwo;
+			sourceTree = "<group>";
+		};
 		552A01E123B45E6600AC2E5B = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +128,11 @@
 		552A01EC23B45E6600AC2E5B /* SectionDeepDive */ = {
 			isa = PBXGroup;
 			children = (
+				55955A4B23C48FDB0008D5AB /* Lab */,
+				552BC8E823BEE3B200CE805C /* TaskFour */,
+				5532176B23BAE88E0013279B /* TaskThree */,
+				5528338F23B5B2A0008287A2 /* TaskTwo */,
+				552A021D23B4901000AC2E5B /* TaskOne */,
 				552A01ED23B45E6600AC2E5B /* AppDelegate.swift */,
 				552A01EF23B45E6600AC2E5B /* SceneDelegate.swift */,
 				552A01F123B45E6600AC2E5B /* ViewController.swift */,
@@ -126,6 +160,42 @@
 				552A021123B45E6B00AC2E5B /* Info.plist */,
 			);
 			path = SectionDeepDiveUITests;
+			sourceTree = "<group>";
+		};
+		552A021D23B4901000AC2E5B /* TaskOne */ = {
+			isa = PBXGroup;
+			children = (
+				552A021E23B4903F00AC2E5B /* TaskOneController.swift */,
+				552A022023B496E000AC2E5B /* TaskOneModel.swift */,
+				552A022223B4C5B700AC2E5B /* HeaderMusicViewCell.swift */,
+				552A022423B4C5CF00AC2E5B /* ContentMusicViewCell.swift */,
+				5528338D23B59D89008287A2 /* MusicFooterCell.swift */,
+			);
+			path = TaskOne;
+			sourceTree = "<group>";
+		};
+		552BC8E823BEE3B200CE805C /* TaskFour */ = {
+			isa = PBXGroup;
+			children = (
+				552BC8E923BEE42400CE805C /* TaskFourViewController.swift */,
+			);
+			path = TaskFour;
+			sourceTree = "<group>";
+		};
+		5532176B23BAE88E0013279B /* TaskThree */ = {
+			isa = PBXGroup;
+			children = (
+				5532176E23BAE93E0013279B /* TaskThreeViewController.swift */,
+			);
+			path = TaskThree;
+			sourceTree = "<group>";
+		};
+		55955A4B23C48FDB0008D5AB /* Lab */ = {
+			isa = PBXGroup;
+			children = (
+				55955A4C23C48FF60008D5AB /* LabViewController.swift */,
+			);
+			path = Lab;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,9 +329,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5528339323B5B848008287A2 /* ContentMenuCellTableViewCell.swift in Sources */,
+				55955A4D23C48FF60008D5AB /* LabViewController.swift in Sources */,
+				5528338E23B59D89008287A2 /* MusicFooterCell.swift in Sources */,
 				552A01F223B45E6600AC2E5B /* ViewController.swift in Sources */,
+				552A022523B4C5CF00AC2E5B /* ContentMusicViewCell.swift in Sources */,
 				552A01EE23B45E6600AC2E5B /* AppDelegate.swift in Sources */,
+				552BC8EA23BEE42400CE805C /* TaskFourViewController.swift in Sources */,
 				552A01F023B45E6600AC2E5B /* SceneDelegate.swift in Sources */,
+				552A022323B4C5B700AC2E5B /* HeaderMusicViewCell.swift in Sources */,
+				5528339123B5B366008287A2 /* TaskTwoController.swift in Sources */,
+				552A022123B496E000AC2E5B /* TaskOneModel.swift in Sources */,
+				5532176F23BAE93E0013279B /* TaskThreeViewController.swift in Sources */,
+				552A021F23B4903F00AC2E5B /* TaskOneController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
